@@ -1,5 +1,3 @@
-# gsoc2025-expected-returns-test
-
 # GSoC 2025 R Org — Expected Returns: Factor Formation
 
 This repository contains the test task responses for the R organization project: **Expected Returns: Factor Formation**, as part of Google Summer of Code 2025.
